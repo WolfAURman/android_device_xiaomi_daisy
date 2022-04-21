@@ -262,7 +262,7 @@ PRODUCT_PACKAGES += \
 
 # Lights
 PRODUCT_PACKAGES += \
-    android.hardware.lights-service.daisy
+    android.hardware.light@2.0-service.daisy
 
 # LiveDisplay
 PRODUCT_PACKAGES += \
